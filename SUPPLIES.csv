@@ -1,0 +1,39 @@
+ITEM CODE,ITEM NAME,QUANTITY
+CL01,clothes - Kids (5-10 yrs) ,50
+CL02,"Clothes (women - S,M,L)",50
+CL03,"Clothes (Men - S,M,L,XL)",200
+CL04,"Undergarments (Men/Women/Kids- S,M,L,XL) ",50
+CL05,Bleaching Powder (Small Packets),20
+CL06,Bedsheets ,50
+CL07,Blanket ,50
+CL08,Wet Wipes Packets for Babies,50
+CL09,"Flip Flops / Slippers / Chappals (Size 4,5,6,7,8) ",300
+CL10,Socks for Babies,20
+CL11,Sweaters,200
+CL12,Socks for Kids ,100
+CL13,Socks for Adults ,200
+CL14,Mufflers (Age-5yr) ,10
+,,
+MED01,Disposable Hygiene Face Cover Mask,600
+MED02,Vicks Vaporub 25ml ,100
+MED03,Cough Syrup Bottles ,50
+MED04,Paracetamol 500mg Strips ,200
+MED05,Ciplox eye drops,10
+MED06,Petroleum Jelly / Vaseline 50 gm ,100
+MED07,Disposable Surgical Gloves ,100
+MED08,Asthalin / Salbutamol Inhalers (for Wheezing) ,50
+MED09,Pasteurized Milk for Babies 1 Litre packets,50
+MED10,Baby Powder ,40
+MED11,Bottled Drinking Water ,1800
+,,
+MISC01,Floor Broom ,30
+MISC02,Bathroom Plastic Mugs,300
+MISC03,Parachute Coconut Oil 50ml ,100
+MISC04,Hair Comb ,300
+MISC05,Small pipe connectors ,20
+MISC06,Extension Cords ,30
+MISC07,Mats ,100
+MISC08,Pen ,10
+MISC09,Notebooks,5
+MISC10,Cleaning Gloves (Kitchen) ,20
+MISC11,Chopping Knife ,20
